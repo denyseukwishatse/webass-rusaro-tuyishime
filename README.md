@@ -3,4 +3,4 @@ webass-rusaro-tuyishime created by GitHub Classroom
 
 name:rusaro
     :tuyishime
-class:level 3B
+class:level 3A
